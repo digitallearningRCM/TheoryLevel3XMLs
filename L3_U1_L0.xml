@@ -1,44 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="L3_U1_B0">
-<lesson type="standard" narrationFile="L3_U1_0a">
-  <page file="L3_U1_0a(0)@2x" delay="0" />
-  <page file="L3_U1_0a(1)@2x" delay="24" />
-  <page file="L3_U1_0a(2)@2x" delay="33"/></page>
-<lesson type="MCQ" narrationFile="L3_U1_0b">
-  <page>
-  <question image="L1_U1_0b(1)-Q">
-  <option image="L1_U1_0b(1)-A1" answer="false"/>
-  <option image="L1_U1_0b(1)-A2" answer="correct"/>
-<lesson type="MCQ" narrationFile="L3_U1_0b">
-	<page>
-	<question image="L1_U1_0b(2)-Q">
-	<option image="L1_U1_0b(2)-A1" answer="false" />
-	<option image="L1_U1_0b(2)-A2" answer="correct" />
-	</question>
-	</page>
-	</lesson>
-<lesson type="MCQ" narrationFile=" L3_U1_0b">
-	<page>
-	<question image="L1_U1_0b(3)-Q">
-	<option image="L1_U1_0b(3)-A1" answer="false" />
-	<option image="L1_U1_0b(3)-A2" answer="correct" />
-	</question>
-	</page>
-	</lesson>
-<lesson type="MCQ" narrationFile=" L3_U1_0b">
-	<page>
-	<question image="L1_U1_0b(4)-Q">
-	<option image="L1_U1_0b(4)-A1" answer="correct" />
-	<option image="L1_U1_0b(4)-A2" answer="false" />
-	</question>
-	</page>
-	</lesson>
-<lesson type="MCQ" narrationFile=" L3_U1_0b">
-	<page>
-	<question image="L1_U1_0b(5)-Q">
-	<option image="L1_U1_0b(5)-A1" answer="false" />
-	<option image="L1_U1_0b(5)-A2" answer="correct" />
-	</question>
-	</page>
-	</lesson>
+  <lesson type="standard" narrationFile="L3_U1_0a">
+    <page file="L3_U1_0a(0)" delay="0" />
+    <page file="L3_U1_0a(1)" delay="24" />
+    <page file="L3_U1_0a(2)" delay="33"></page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="L3_U1_0b">
+    <page>
+      <question image="L1_U1_0b(1)-Q">
+        <option image="L1_U1_0b(1)-A1" answer="false" />
+        <option image="L1_U1_0b(1)-A2" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile="L3_U1_0b">
+    <page>
+      <question image="L1_U1_0b(2)-Q">
+        <option image="L1_U1_0b(2)-A1" answer="false" />
+        <option image="L1_U1_0b(2)-A2" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile=" L3_U1_0b">
+    <page>
+      <question image="L1_U1_0b(3)-Q">
+        <option image="L1_U1_0b(3)-A1" answer="false" />
+        <option image="L1_U1_0b(3)-A2" answer="correct" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile=" L3_U1_0b">
+    <page>
+      <question image="L1_U1_0b(4)-Q">
+        <option image="L1_U1_0b(4)-A1" answer="correct" />
+        <option image="L1_U1_0b(4)-A2" answer="false" />
+      </question>
+    </page>
+  </lesson>
+  <lesson type="MCQ" narrationFile=" L3_U1_0b">
+    <page>
+      <question image="L1_U1_0b(5)-Q">
+        <option image="L1_U1_0b(5)-A1" answer="false" />
+        <option image="L1_U1_0b(5)-A2" answer="correct" />
+      </question>
+    </page>
+  </lesson>
 </lessons>
