@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson type="standard" narrationFile="L3_U5_6">
+  <page file="L3_U5_6(0)@2x" delay="0" />
+  <page file="L3_U5_6(1)@2x" delay="4" />
+  <page file="L3_U5_6(2)@2x" delay="12" />
+  <page file="L3_U5_6(3)@2x" delay="28">
+    <lesson type="standard" narrationFile="L3_U5_8">
+      <page file="L3_U5_8(0)@2x" delay="0" />
+    </lesson>
+  </page>
+</lesson>

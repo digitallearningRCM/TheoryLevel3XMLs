@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson type="standard" narrationFile="L3_U5_4">
+  <page file="L3_U5_4(0)@2x" delay="0" />
+  <page file="L3_U5_4(1)@2x" delay="2" />
+  <page file="L3_U5_4(2)@2x" delay="4" />
+  <page file="L3_U5_4(3)@2x" delay="11" />
+  <page file="L3_U5_4(4)@2x" delay="14">
+    <lesson type="standard" narrationFile="L3_U5_5">
+      <page file="L3_U5_5(0)@2x" delay="0" />
+      <page file="L3_U5_5(1)@2x" delay="8" />
+      <page file="L3_U5_5(2)@2x" delay="21" />
+    </lesson>
+  </page>
+</lesson>

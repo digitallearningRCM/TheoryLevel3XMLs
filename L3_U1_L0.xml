@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson type="standard" narrationFile="L3_U1_0a">
+  <page file="L3_U1_0a(0)@2x" delay="0" />
+  <page file="L3_U1_0a(1)@2x" delay="24" />
+  <page file="L3_U1_0a(2)@2x" delay="33">
+    <lesson type="MCQ" narrationFile="L3_U1_0b">
+      <page>
+        <question image="L1_U1_0b(1)-Q">
+          <option image="L1_U1_0b(1)-A1" answer="false" />
+          <option image="L1_U1_0b(1)-A2" answer="correct">
+            <lesson type="MCQ" narrationFile="L3_U1_0b">
+              <page>
+                <question image="L1_U1_0b(2)-Q">
+                  <option image="L1_U1_0b(2)-A1" answer="false" />
+                  <option image="L1_U1_0b(2)-A2" answer="correct">
+                    <lesson type="MCQ" narrationFile=" L3_U1_0b">
+                      <page>
+                        <question image="L1_U1_0b(3)-Q">
+                          <option image="L1_U1_0b(3)-A1" answer="false" />
+                          <option image="L1_U1_0b(3)-A2" answer="correct">
+                            <lesson type="MCQ" narrationFile=" L3_U1_0b">
+                              <page>
+                                <question image="L1_U1_0b(4)-Q">
+                                  <option image="L1_U1_0b(4)-A1" answer="correct" />
+                                  <option image="L1_U1_0b(4)-A2" answer="false">
+                                    <lesson type="MCQ" narrationFile=" L3_U1_0b">
+                                      <page>
+                                        <question image="L1_U1_0b(5)-Q">
+                                          <option image="L1_U1_0b(5)-A1" answer="false" />
+                                          <option image="L1_U1_0b(5)-A2" answer="correct">
+                                            <lesson type="MCQ" narrationFile=" L3_U1_0b">
+                                              <page>
+                                                <question image="L1_U1_0b(6)-Q">
+                                                  <option image="L1_U1_0b(6)-A1" answer="correct" />
+                                                  <option image="L1_U1_0b(6)-A2" answer="false">
+                                                    <lesson type="MCQ" narrationFile=" L3_U1_0b">
+                                                      <page>
+                                                        <question image="L1_U1_0b(7)-Q">
+                                                          <option image="L1_U1_0b(7)-A1" answer="correct" />
+                                                          <option image="L1_U1_0b(7)-A1_1" answer="false">
+                                                            <lesson type="MCQ" narrationFile=" L3_U1_0b">
+                                                              <page>
+                                                                <question image="L1_U1_0b(8)-Q">
+                                                                  <option image="L1_U1_0b(8)-A1_1" answer="correct" />
+                                                                  <option image="L1_U1_0b(8)-A2" answer="false">
+                                                                    <lesson type="MCQ" narrationFile=" L3_U1_0b">
+                                                                      <page>
+                                                                        <question image="L1_U1_0b(9)-Q">
+                                                                          <option image="L1_U1_0b(9)-A1" answer="correct" />
+                                                                          <option image="L1_U1_0b(9)-A2" answer="false">
+                                                                            <lesson type="MCQ" narrationFile=" L3_U1_0b">
+                                                                              <page>
+                                                                                <question image="L1_U1_0b(10)-Q">
+                                                                                  <option image="L1_U1_0b(10)-A1" answer="correct" />
+                                                                                  <option image="L1_U1_0b(10)-A2" answer="false" />
+                                                                                </question>
+                                                                              </page>
+                                                                            </lesson>
+                                                                          </option>
+                                                                        </question>
+                                                                      </page>
+                                                                    </lesson>
+                                                                  </option>
+                                                                </question>
+                                                              </page>
+                                                            </lesson>
+                                                          </option>
+                                                        </question>
+                                                      </page>
+                                                    </lesson>
+                                                  </option>
+                                                </question>
+                                              </page>
+                                            </lesson>
+                                          </option>
+                                        </question>
+                                      </page>
+                                    </lesson>
+                                  </option>
+                                </question>
+                              </page>
+                            </lesson>
+                          </option>
+                        </question>
+                      </page>
+                    </lesson>
+                  </option>
+                </question>
+              </page>
+            </lesson>
+          </option>
+        </question>
+      </page>
+    </lesson>
+  </page>
+</lesson>

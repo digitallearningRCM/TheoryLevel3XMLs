@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson type="standard" narrationFile="L3_U2_7">
+  <page file="L3_U2_7(1)@2x" delay="0" />
+  <page file="L3_U2_7(2)@2x" delay="10" />
+  <page file="L3_U2_7(3)@2x" delay="20" />
+  <page file="L3_U2_7(4)@2x" delay="35">
+    <lesson type="standard" narrationFile="L3_U2_8">
+      <page file="L3_U2_8(0)@2x" delay="0" />
+      <page file="L3_U2_8(1)@2x" delay="4" />
+      <page file="L3_U2_8(2)@2x" delay="9">
+        <lesson type="standard" narrationFile="L3_U2_9">
+          <page file="L3_U2_92x" delay="0">
+            <lesson type="standard" narrationFile="L3_U2_10">
+              <page file="L3_U2_102x" delay="0" />
+            </lesson>
+          </page>
+        </lesson>
+      </page>
+    </lesson>
+  </page>
+</lesson>
