@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<lesson type="standard" narrationFile="L3_U5_4">
-  <page file="L3_U5_4(0)@2x" delay="0" />
-  <page file="L3_U5_4(1)@2x" delay="2" />
-  <page file="L3_U5_4(2)@2x" delay="4" />
-  <page file="L3_U5_4(3)@2x" delay="11" />
-  <page file="L3_U5_4(4)@2x" delay="14">
-    <lesson type="standard" narrationFile="L3_U5_5">
-      <page file="L3_U5_5(0)@2x" delay="0" />
-      <page file="L3_U5_5(1)@2x" delay="8" />
-      <page file="L3_U5_5(2)@2x" delay="21" />
-    </lesson>
-  </page>
-</lesson>
+<lessons banner = "L3_U5_B2">
+	<lesson type="standard" narrationFile="L3_U5_4">
+		<page file="L3_U5_4(0)" delay="0" />
+		<page file="L3_U5_4(1)" delay="2" />
+		<page file="L3_U5_4(2)" delay="4" />
+		<page file="L3_U5_4(3)" delay="11" />
+		<page file="L3_U5_4(4)" delay="14" /></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L3_U5_5">
+		<page file="L3_U5_5(0)" delay="0" />
+		<page file="L3_U5_5(1)" delay="8" />
+		<page file="L3_U5_5(2)" delay="21" /></page>
+	</lesson>
+</lessons>

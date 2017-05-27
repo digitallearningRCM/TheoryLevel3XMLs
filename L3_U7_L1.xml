@@ -34,4 +34,15 @@
   <card graphic="T2_U7_4(3)" definition="very loud"></card>
   <card graphic="T2_U7_4(4)" definition="very soft"></card>
   <card graphic="T2_U7_4(5)" definition="pedal marking"></card>
+  <card graphic="T3_U7_2(1)" definition="#"></card>
+  <card graphic="T3_U7_2(2)" definition="#"></card>
+  <card graphic="T3_U7_2(3)" definition="#"></card>
+  <card graphic="T3_U7_2(4)" definition="#"></card>
+  <card graphic="T3_U7_2(5)" definition="#"></card>
+  <card graphic="T3_U7_3(1)" definition="#"></card>
+  <card graphic="T3_U7_3(2)" definition="#"></card>
+  <card graphic="T3_U7_3(3)" definition="#"></card>
+  <card graphic="T3_U7_4(1)" definition="#"></card>
+  <card graphic="T3_U7_4(2)" definition="#"></card>
+  <card graphic="T3_U7_4(3)" definition="#"></card>
 </cards>

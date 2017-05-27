@@ -1,29 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<lesson type="standard" narrationFile="L3_U1_1">
-  <page file="L3_U1_1(0)@2x" delay="0" />
-  <page file="L3_U1_1(1)@2x" delay="28">
-    <lesson type="standard" narrationFile="L3_U1_2">
-      <page file="L3_U1_2(0)@2x" delay="0" />
-      <page file="L3_U1_2(1)@2x" delay="6">
-        <lesson type="standard" narrationFile="L3_U1_3">
-          <page file="L3_U1_3(0)@2x" delay="0" />
-          <page file="L3_U1_3(1)@2x" delay="9">
-            <lesson type="standard" narrationFile="L3_U1_4">
-              <page file="L3_U1_4(0)@2x" delay="0" />
-              <page file="L3_U1_4(1)@2x" delay="1">
-                <lesson type="standard" narrationFile="L3_U1_5">
-                  <page file="L3_U1_5(0)@2x" delay="0" />
-                  <page file="L3_U1_5(1)@2x" delay="9" />
-                  <page file="L3_U1_5(2)@2x" delay="10" />
-                  <page file="L3_U1_5(3)@2x" delay="12" />
-                  <page file="L3_U1_5(4)@2x" delay="13" />
-                  <page file="L3_U1_5(5)@2x" delay="14" />
-                </lesson>
-              </page>
-            </lesson>
-          </page>
-        </lesson>
-      </page>
-    </lesson>
-  </page>
-</lesson>
+<lessons banner = "L3_U1_B1">
+	<lesson type="standard" narrationFile="L3_U1_1">
+		<page file="L3_U1_1(0)" delay="0" />
+		<page file="L3_U1_1(1)" delay="28" /></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L3_U1_2">
+		<page file="L3_U1_2(0)" delay="0" />
+		<page file="L3_U1_2(1)" delay="6"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L3_U1_3">
+		<page file="L3_U1_3(0)" delay="0" />
+		<page file="L3_U1_3(1)" delay="9"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L3_U1_4">
+		<page file="L3_U1_4(0)" delay="0" />
+		<page file="L3_U1_4(1)" delay="1"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L3_U1_5">
+		<page file="L3_U1_5(0)" delay="0" />
+		<page file="L3_U1_5(1)" delay="9" />
+		<page file="L3_U1_5(2)" delay="10" />
+		<page file="L3_U1_5(3)" delay="12" />
+		<page file="L3_U1_5(4)" delay="13" />
+		<page file="L3_U1_5(5)" delay="14" /></page>
+	</lesson>
+</lessons>
+       
