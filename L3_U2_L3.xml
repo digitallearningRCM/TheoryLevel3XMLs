@@ -4,13 +4,13 @@
 		<page file="L3_U2_7(1)" delay="0" />
 		<page file="L3_U2_7(2)" delay="10" />
 		<page file="L3_U2_7(3)" delay="20" />
-		<page file="L3_U2_7(4)" delay="35" />
+		<page file="L3_U2_7(4)" delay="35" >
 		</page>
 	</lesson>
     <lesson type="standard" narrationFile="L3_U2_8">
 		<page file="L3_U2_8(0)" delay="0" />
 		<page file="L3_U2_8(1)" delay="4" />
-		<page file="L3_U2_8(2)" delay="9" />
+		<page file="L3_U2_8(2)" delay="9" >
 		</page>
 	</lesson>
     <lesson type="standard" narrationFile="L3_U2_9">
@@ -18,7 +18,7 @@
 		</page>
 	</lesson>
     <lesson type="standard" narrationFile="L3_U2_10">
-        <page file="L3_U2_10" delay="0" />
+        <page file="L3_U2_10" delay="0" >
 		</page>
 	</lesson>
 </lessons>
