@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<xml version="1.0" encoding="utf-8">
 <lessons banner = "L3_U3_B2">
 	<lesson type="standard" narrationFile="L3_U3_4">
 	  <page file="L3_U3_4(0)" delay="0" />
@@ -8,13 +8,13 @@
 	  <page file="L3_U3_4(4)" delay="20" />
 	  <page file="L3_U3_4(5)" delay="22" />
 	  <page file="L3_U3_4(6)" delay="25" />
-	  <page file="L3_U3_4(7)" delay="28" /></page>
+	  <page file="L3_U3_4(7)" delay="28" ></page>
 	 </lesson>
     <lesson type="standard" narrationFile="L3_U3_5">
       <page file="L3_U3_5(0)" delay="0" />
       <page file="L3_U3_5(1)" delay="7" />
       <page file="L3_U3_5(2)" delay="8" />
-      <page file="L3_U3_5(3)" delay="12" /></page>
+      <page file="L3_U3_5(3)" delay="12" ></page>
 	 </lesson>
     <lesson type="standard" narrationFile="L3_U3_6">
       <page file="L3_U3_6(0)" delay="0" />
@@ -24,12 +24,12 @@
       <page file="L3_U3_6(4)" delay="18" />
       <page file="L3_U3_6(5)" delay="21" />
       <page file="L3_U3_6(6)" delay="25" />
-      <page file="L3_U3_6(7)" delay="27" /></page>
+      <page file="L3_U3_6(7)" delay="27" ></page>
 	 </lesson>
     <lesson type="standard" narrationFile="L3_U3_7">
       <page file="L3_U3_7(0)" delay="0" />
       <page file="L3_U3_7(1)" delay="5" />
       <page file="L3_U3_7(2)" delay="8" />
-      <page file="L3_U3_7(3)" delay="11" /></page>
+      <page file="L3_U3_7(3)" delay="11" ></page>
     </lesson>
 </lessons>
