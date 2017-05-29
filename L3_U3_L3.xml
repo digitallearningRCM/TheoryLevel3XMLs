@@ -3,7 +3,7 @@
 	<lesson type="standard" narrationFile="L3_U3_8">
 		<page file="L3_U3_8(1)" delay="0" />
 		<page file="L3_U3_8(2)" delay="6" />
-		<page file="L3_U3_8(3)" delay="18" /></page>
+		<page file="L3_U3_8(3)" delay="18" ></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U3_9">
 		<page file="L3_U3_9(0)" delay="0" />
@@ -12,11 +12,11 @@
 		<page file="L3_U3_9(3)" delay="14" />
 		<page file="L3_U3_9(4)" delay="17" />
 		<page file="L3_U3_9(5)" delay="32" />
-		<page file="L3_U3_9(6)" delay="37"/></page>
+		<page file="L3_U3_9(6)" delay="37"></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U3_10">
 		<page file="L3_U3_10(0)" delay="0" />
-		<page file="L3_U3_10(1)" delay="5"/></page>
+		<page file="L3_U3_10(1)" delay="5"></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U3_11">
 		<page file="L3_U3_11(0)" delay="0" />
@@ -24,27 +24,27 @@
 		<page file="L3_U3_11(2)" delay="7" />
 		<page file="L3_U3_11(3)" delay="10" />
 		<page file="L3_U3_11(4)" delay="19" />
-		<page file="L3_U3_11(5)" delay="21"/></page>
+		<page file="L3_U3_11(5)" delay="21"></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U3_12">
 		<page file="L3_U3_12(0)" delay="0" />
 		<page file="L3_U3_12(1)" delay="5" />
 		<page file="L3_U3_12(2)" delay="12" />
 		<page file="L3_U3_12(3)" delay="16" />
-		<page file="L3_U3_12(4)" delay="23"/></page>
+		<page file="L3_U3_12(4)" delay="23"></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U3_13">
 		<page file="L3_U3_13(0)" delay="0" />
 		<page file="L3_U3_13(1)" delay="4" />
 		<page file="L3_U3_13(2)" delay="10" />
 		<page file="L3_U3_13(3)" delay="18" />
-		<page file="L3_U3_13(4)" delay="25"/></page>
+		<page file="L3_U3_13(4)" delay="25"></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U3_14">
 		<page file="L3_U3_13(0)" delay="0" />
 		<page file="L3_U3_13(1)" delay="4" />
 		<page file="L3_U3_13(2)" delay="11" />
 		<page file="L3_U3_13(3)" delay="18" />
-		<page file="L3_U3_13(4)" delay="25"/></page>
+		<page file="L3_U3_13(4)" delay="25"></page>
 	</lesson>
-</lessonsHJH>
+</lessons>
