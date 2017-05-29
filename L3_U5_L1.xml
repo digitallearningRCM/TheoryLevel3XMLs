@@ -6,13 +6,13 @@
 		<page file="L3_U5_1(2)" delay="14" />
 		<page file="L3_U5_1(3)" delay="18" />
 		<page file="L3_U5_1(4)" delay="21" />
-		<page file="L3_U5_1(5)" delay="28" /></page>
+		<page file="L3_U5_1(5)" delay="28" ></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U5_2">
 		<page file="L3_U5_2(0)" delay="0" />
-		<page file="L3_U5_2(1)" delay="17"></page>
+		<page file="L3_U5_2(1)" delay="17" ></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U5_3">
-		<page file="L3_U5_3(0)" delay="0" /></page>
+		<page file="L3_U5_3(0)" delay="0" ></page>
 	</lesson>
 </lessons>
