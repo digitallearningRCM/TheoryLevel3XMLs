@@ -5,10 +5,10 @@
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U6_2">
 		<page file="L3_U6_2(0)" delay="0" />
-		<page file="L3_U6_2(1)" delay="22"/></page>
+		<page file="L3_U6_2(1)" delay="22"></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U6_3">
 		<page file="L3_U6_3(0)" delay="0" />
-		<page file="L3_U6_3(1)" delay="31" /></page>
+		<page file="L3_U6_3(1)" delay="31" ></page>
 	</lesson>
 </lessons>
