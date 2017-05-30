@@ -41,10 +41,10 @@
 		<page file="L3_U3_13(4)" delay="25"></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U3_14">
-		<page file="L3_U3_13(0)" delay="0" />
-		<page file="L3_U3_13(1)" delay="4" />
-		<page file="L3_U3_13(2)" delay="11" />
-		<page file="L3_U3_13(3)" delay="18" />
-		<page file="L3_U3_13(4)" delay="25"></page>
+		<page file="L3_U3_14(0)" delay="0" />
+		<page file="L3_U3_14(1)" delay="4" />
+		<page file="L3_U3_14(2)" delay="11" />
+		<page file="L3_U3_14(3)" delay="18" />
+		<page file="L3_U3_14(4)" delay="25"></page>
 	</lesson>
 </lessons>
