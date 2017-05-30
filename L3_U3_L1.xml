@@ -3,12 +3,12 @@
 	<lesson type="standard" narrationFile="L3_U3_1">
 		<page file="L3_U3_1(0)" delay="0" />
 		<page file="L3_U3_1(1)" delay="5" />
-		<page file="L3_U3_1(2)" delay="8" />
+		<page file="L3_U3_1(2)" delay="11" />
 		<page file="L3_U3_1(3)" delay="17" />
 		<page file="L3_U3_1(4)" delay="21" />
 		<page file="L3_U3_1(5)" delay="25" />
-		<page file="L3_U3_1(6)" delay="27" />
-		<page file="L3_U3_1(7)" delay="36" >
+		<page file="L3_U3_1(6)" delay="29" />
+		<page file="L3_U3_1(7)" delay="37" >
 		</page>
 	</lesson>
     <lesson type="standard" narrationFile="L3_U3_2">
