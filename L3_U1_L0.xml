@@ -65,7 +65,7 @@
     <page>
       <question image="L3_U1_0b(8)-Q_G">
         <option image="L3_U1_0b(8)-A1_G" answer="correct" />
-        <option image="L3_U1_0b(7)-A1_1_G" answer="false" />
+        <option image="L3_U1_0b(8)-A1_1_G" answer="false" />
       </question>
     </page>
   </lesson>
