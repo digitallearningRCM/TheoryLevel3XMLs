@@ -2,11 +2,11 @@
 <lessons banner = "L3_U5_B1">
 	<lesson type="standard" narrationFile="L3_U5_1">
 		<page file="L3_U5_1(0)" delay="0" />
-		<page file="L3_U5_1(1)" delay="9" />
-		<page file="L3_U5_1(2)" delay="14" />
-		<page file="L3_U5_1(3)" delay="18" />
-		<page file="L3_U5_1(4)" delay="21" />
-		<page file="L3_U5_1(5)" delay="28" ></page>
+		<page file="L3_U5_1(1)" delay="10" />
+		<page file="L3_U5_1(2)" delay="15" />
+		<page file="L3_U5_1(3)" delay="19" />
+		<page file="L3_U5_1(4)" delay="22" />
+		<page file="L3_U5_1(5)" delay="29" ></page>
 	</lesson>
 	<lesson type="standard" narrationFile="L3_U5_2">
 		<page file="L3_U5_2(0)" delay="0" />
