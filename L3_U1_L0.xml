@@ -48,8 +48,8 @@
   <lesson type="MCQ" narrationFile="L3_U1_0b">
     <page>
       <question image="L3_U1_0b(6)-Q_G">
-        <option image="L3_U1_0b(6)-A1_G" answer="false" />
-        <option image="L3_U1_0b(6)-A2_G" answer="correct" />
+        <option image="L3_U1_0b(6)-A1_G" answer="correct" />
+        <option image="L3_U1_0b(6)-A2_G" answer="false" />
       </question>
     </page>
   </lesson>
@@ -74,14 +74,6 @@
       <question image="L3_U1_0b(9)-Q_G">
         <option image="L3_U1_0b(9)-A1_G" answer="correct" />
         <option image="L3_U1_0b(9)-A2_G" answer="false" />
-      </question>
-    </page>
-  </lesson>
-  <lesson type="MCQ" narrationFile="L3_U1_0b">
-    <page>
-      <question image="L3_U1_0b(5)-Q_G">
-        <option image="L3_U1_0b(5)-A1_G" answer="correct" />
-        <option image="L3_U1_0b(5)-A2_G" answer="false" />
       </question>
     </page>
   </lesson>
